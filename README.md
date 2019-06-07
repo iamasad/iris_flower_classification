@@ -4,12 +4,17 @@ data set using machine learning learning with python to predict the species of a
 
 ## Introduction
 
-We are going to use the iris flowers dataset. A we'll be performing classification using (LogisticRegression,LinearDiscriminantAnalysis
-KNeighborsClassifier,DecisionTreeClassifier) algorithm.
+We are going to use the iris flowers dataset. A we'll be performing classification using following machine learning algorithms :
+  * a. LogisticRegression
+  * b. LinearDiscriminantAnalysis
+  * c. LogisticRegression
+  * d. LinearDiscriminantAnalysis
+  * e. KNeighborsClassifier
+  * f. DecisionTreeClassifier
 The dataset contains 150 observations of iris flowers. There are four columns of measurements of the flowers in centimeters. The fifth column is the species of the flower observed. All observed flowers belong to one of three species.
 
   * The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor).
-  * Four features were measured from each sample (in centimetres):
+  * Four features were measured from each sample (in centimetres) :
       * 1. Length of the sepals
       * 2. Width of the sepals
       * 3. Length of the petals
