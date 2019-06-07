@@ -26,11 +26,10 @@ The purpose of this project was to gain introductory exposure to Machine Learnin
   * Visualization
   * Model bulding and Validation
 ## Software and Libraries
-
-Python
-Pandas
-Scikit-Learn
-
+  * Python
+  * Pandas
+  * Scikit-Learn
+    * It is better to use Anaconda distribution to get all the package pre-installed
 ##  Code working 
 * There are two file available for all the coding part  :
   * Jupyternotebook file in (.ipynb) results are displayed within notebook .
