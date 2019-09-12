@@ -105,6 +105,6 @@ print(confusion_matrix(Y_validation, predictions))
 print(classification_report(Y_validation, predictions))
 
 '''
-Here you can se how I performed all the steps if we have cleaned data because
-this all the procedure doesn't include cleaning or prepocessing part.
-And such that we can find confusion matrics and classification report for all the algorithms.
+Here you can see how I performed all the steps for preprocessed data or cleaned data
+all the procedure doesn't include cleaning or preprocessing part.
+And such that we can find  classification  report and confusion matrics  for all the classification algorithms.
